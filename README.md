@@ -22,10 +22,12 @@ flowchart LR
 
 - [tmdb-crawler](https://github.com/vaugouin/tmdb-crawler): daily sync of movies, series and people from the TMDb API.
 - [imdb-crawler](https://github.com/vaugouin/imdb-crawler): imports the IMDb dataset files.
+- [omdb-crawler](https://github.com/vaugouin/omdb-crawler): imports Rotten Tomatoes, Metacritic and US box-office figures from the OMDb API for every title with an IMDb ID.
 - [wikidata-crawler](https://github.com/vaugouin/wikidata-crawler): streams the Wikidata dumps into a statement and value schema.
 - [wikipedia-crawler](https://github.com/vaugouin/wikipedia-crawler): English and French Wikipedia pages for every entity with a Wikidata ID.
 - [selenium-tmdb](https://github.com/vaugouin/selenium-tmdb): batch repair of Wikidata IDs on TMDb.
 - [download-images](https://github.com/vaugouin/download-images) and [synthetic-images](https://github.com/vaugouin/synthetic-images): real images, and style-locked illustrations for entities that have none.
+- [image-captioning](https://github.com/vaugouin/image-captioning): captions TMDb backdrop images with a Claude vision model, grounded in each film's own data, so the right still can be retrieved at the right beat of a generated video.
 - [manual-refresh](https://github.com/vaugouin/manual-refresh): refreshes one title or person on demand.
 - [sparql-crawler](https://github.com/vaugouin/sparql-crawler) and [sparql-movies-persons](https://github.com/vaugouin/sparql-movies-persons): the earlier SPARQL crawlers, deprecated in favour of wikidata-crawler.
 
