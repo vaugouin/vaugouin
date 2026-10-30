@@ -57,3 +57,4 @@ flowchart LR
 
 - [open-credits](https://github.com/vaugouin/open-credits): crowdsourced OCR of on-screen movie and series credits, for TMDb and Wikidata.
 - [subtitle-translate](https://github.com/vaugouin/subtitle-translate): translates subtitle files with OpenAI models.
+- [iconic-scenes](https://github.com/vaugouin/iconic-scenes): from a famous movie line to the best still of that moment, found in the film's subtitles and chosen by classical computer vision, no LLM.
