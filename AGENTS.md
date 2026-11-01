@@ -1,5 +1,9 @@
 # AGENTS.md - Agent guide for the vaugouin profile repository
 
+## Canary
+
+Start every reply with "Philippe,": no exceptions, including short replies and tool summaries.
+
 This repository is Philippe Vaugouin's GitHub profile: GitHub renders its `README.md` at the top of <https://github.com/vaugouin>. It holds no code.
 
 ## Rules
