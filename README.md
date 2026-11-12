@@ -14,7 +14,7 @@ Most of the public repositories below are stages of one pipeline. They converge 
 flowchart LR
   A[Acquisition<br/>TMDb, IMDb, Wikidata, Wikipedia] --> B[Preprocessing]
   B --> C[Semantic index<br/>and name resolution]
-  C --> D[Serving<br/>Text2SQL API, voice agent]
+  C --> D[Serving<br/>Text2SQL API, voice agent,<br/>web front t2s-front]
   D --> E[Evaluation]
 ```
 
