@@ -45,6 +45,7 @@ flowchart LR
 - [fastapi-text2sql](https://github.com/vaugouin/fastapi-text2sql): turns natural-language questions into SQL, as a REST API and an MCP server.
 - [voice-agent](https://github.com/vaugouin/voice-agent): the voice and chat front end.
 - [t2s-web](https://github.com/vaugouin/t2s-web): a web client for the API.
+- [t2s-front](https://github.com/vaugouin/t2s-front): the PHP web front end of the database. A question in English or French comes back as cards, rankings, timelines or a verdict, and every movie, series and person has its page with images, Wikidata properties and Wikipedia sections.
 - [listening-companion](https://github.com/vaugouin/listening-companion): a silent visual companion for movie conversations.
 
 **Evaluation and monitoring**
